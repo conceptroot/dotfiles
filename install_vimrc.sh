@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
-cat .vimrc > ~/.vimrc
+cat vimrc > ~/.vimrc
 echo "файл  .vimrc установлен"
