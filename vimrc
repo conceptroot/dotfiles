@@ -13,6 +13,6 @@ set autoindent
 
 set ruler
 set number
-set relativenumber
+" set relativenumber
 syntax on
 set t_Co=256
